@@ -59,12 +59,11 @@ An AI-powered web application that summarizes the content of any website using G
 
 # Tech Stack
 
-Python
-Gradio
-Groq API
-BeautifulSoup4
-Requests
-Python-dotenv
+- Python
+- Gradio
+- Groq API
+- BeautifulSoup4
+- Requests
 
 ---
 
