@@ -72,13 +72,13 @@ An AI-powered web application that summarizes the content of any website using G
 ```text
 sitesense/
 │
-├── app.py                 # Gradio UI
-├── scraper.py             # Website scraping
-├── summarizer.py          # AI summarization
+├── app.py                 
+├── scraper.py             
+├── summarizer.py          
 ├── requirements.txt
 ├── README.md
 ├── .gitignore
-├── .env                   # API Key (not committed)
+├── .env                  
 │
 ├── assets/
 │   ├── demo.gif
