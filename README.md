@@ -60,8 +60,8 @@ An AI-powered web application that summarizes the content of any website using G
 # Tech Stack
 
 - Python
-- Gradio
 - Groq API
+- Gradio
 - BeautifulSoup4
 - Requests
 
